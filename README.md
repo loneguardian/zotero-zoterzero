@@ -1,3 +1,10 @@
+# ZoterZero for APA citation
+
+A VBA macro that modifies Zotero's APA citation into multiple variants (notably the author-only cites).
+
+[Original thread on Zotero forum
+](https://forums.zotero.org/discussion/73159/announcing-zoterzero-for-author-only-cites)
+
 # Usage
 
 - This VBA macro works only on **single APA citation(s)**
